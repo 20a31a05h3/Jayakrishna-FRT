@@ -7,7 +7,7 @@ this is a web based application developed for organic food related based website
 
 
 **Project link** - https://wonderful-moss-0f6665d00.3.azurestaticapps.net/
-**Project demo video link ** -
+**Project demo video link ** -https://youtu.be/ovyiXfCmXDM
 
 
 
