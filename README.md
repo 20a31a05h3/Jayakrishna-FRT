@@ -35,6 +35,9 @@ gallery
 ![Screenshot (6)](https://github.com/20a31a05h3/Jayakrishna-FRT/assets/109793904/0af983a2-a447-4b2b-ba97-a4a6c618b270)
 contact
 ![Screenshot (7)](https://github.com/20a31a05h3/Jayakrishna-FRT/assets/109793904/335b59ad-7662-43e3-89b9-ffae1680ff80)
+chatbot
+
+![Screenshot (8)](https://github.com/20a31a05h3/Jayakrishna-FRT/assets/109793904/d73e9802-e87e-464e-bb0d-9dfd88b23a41)
 
 
 
