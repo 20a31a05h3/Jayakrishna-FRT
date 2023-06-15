@@ -10,7 +10,8 @@ this is a web based application developed for organic food related based website
 **Project demo video link ** -
 
 
-## Features and Functionalities
+
+
 
 -Interactive and responsive UI.
 -Has many graphical and visual innovative effects.
@@ -19,7 +20,22 @@ this is a web based application developed for organic food related based website
 -organic food is produced without the use of genetically modified organisms.
 -one of the key features of organic food is that it is produced without the use of synthetic chemicals.
 
+
 ## Screenshots
+
+Home
+![Screenshot (3)](https://github.com/20a31a05h3/Jayakrishna-FRT/assets/109793904/893c2d2d-1a46-4c1c-b165-5da2f9831060)
+
+![Screenshot (3)](https://github.com/20a31a05h3/Jayakrishna-FRT/assets/109793904/33739d65-8f7a-43c1-ae9d-6af442e717d9)
+About Us
+![Screenshot (5)](https://github.com/20a31a05h3/Jayakrishna-FRT/assets/109793904/99fe989c-5a06-4e83-834f-2a39c56acf01)
+
+gallery
+
+![Screenshot (6)](https://github.com/20a31a05h3/Jayakrishna-FRT/assets/109793904/0af983a2-a447-4b2b-ba97-a4a6c618b270)
+contact
+![Screenshot (7)](https://github.com/20a31a05h3/Jayakrishna-FRT/assets/109793904/335b59ad-7662-43e3-89b9-ffae1680ff80)
+
 
 
 
